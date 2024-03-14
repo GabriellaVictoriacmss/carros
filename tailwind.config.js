@@ -13,7 +13,7 @@ export default {
       'offwhitebg': '#f2f2f2'
     },
     fontFamily: {
-      'shoudelrs': '"Big Shoulders Display"',
+      'shoulders': '"Big Shoulders Display"',
       'lexend': '"Lexend Deca"',
 
     }
